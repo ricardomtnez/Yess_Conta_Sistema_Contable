@@ -25,3 +25,10 @@ Vista de Login.
 
 Vista de Registro. El formulario es reactivo si los campos se dejan vacíos y hay validación en el Font End.
 ![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Registro.jpg)
+
+Dashboard. Es la vista donde se muestra información del usuario y el mismo puede crear una empresa en la cual realizará su actividad contable.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Dasboard.jpg)
+
+Modal de Registro de Empresa.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Registro_Empresa.jpg)
+
