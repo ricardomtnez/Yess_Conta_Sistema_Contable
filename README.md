@@ -16,3 +16,12 @@ el objetivo, la metodología empleada y los integrantes que realizaron el proyec
 
 En el apartado de Juegos se muestra una colección de juegos realizados por alumnos de la carrera que tienen que ver con la contabilidad, para que los usuarios los descarguen y los puedan jugar.
 ![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Juegos.jpg)
+
+Tanto en el botón de Iniciar Sesión como el de Comenzar ahora que se encuentran en la vista principal, direccionan al inicio de sesión donde el usuario tendrá la opción de registrase o de loggearse.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Iniciar_Sesion.jpg)
+
+Vista de Login.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Login.jpg)
+
+Vista de Registro. El formulario es reactivo si los campos se dejan vacíos y hay validación en el Font End.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Registro.jpg)
