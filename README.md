@@ -9,3 +9,7 @@ En está vista se muestra información acerca de los conceptos básicos sobre la
 
 En está vista es posible descargar el Manual del usuario, por si surgieran dudas del uso del sistema.
 ![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Manuales.jpg)
+
+En la vista de acerca de se puede apreciar información sobre las motivaciones que impulsaron el proyecto,
+el objetivo, la metodología empleada y los integrantes que realizaron el proyecto.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Acercade.jpg)
