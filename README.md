@@ -54,3 +54,6 @@ Vista de Reportes. Puede hacer exactamente lo mismo que la vista de pólizas, si
 
 Vista de estado de resultados. Aqui se deducen todos los gastos e ingresos del mes y se obtiene una utilidad neta, de forma automática el software lo hace.
 ![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Resultados.jpg)
+
+Vista del balance General. Aquí se muestra el balance general del mes. Se puede exportar a pdf.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Balance.jpg)
