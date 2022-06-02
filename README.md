@@ -57,3 +57,6 @@ Vista de estado de resultados. Aqui se deducen todos los gastos e ingresos del m
 
 Vista del balance General. Aquí se muestra el balance general del mes. Se puede exportar a pdf.
 ![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Balance.jpg)
+
+Diseño responsivo.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Responsivo.jpg)
