@@ -6,3 +6,6 @@ Está vista corresponde a la ventana principal de la página que aloja el sistem
 
 En está vista se muestra información acerca de los conceptos básicos sobre la contabilidad.
 ![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Conceptos_Basicos.jpg)
+
+En está vista es posible descargar el Manual del usuario, por si surgieran dudas del uso del sistema.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Manuales.jpg)
