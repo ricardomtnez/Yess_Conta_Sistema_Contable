@@ -39,4 +39,5 @@ Modal de Registro de Nuevo Ejercicio. En este modal se pueden registrar los ejer
 ![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Modal_EjercicioFiscal.jpg)
 
 Vista de Registro de cuentas. El usuario va registrando todos los asientos correspondientes al mes.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Registro_Cuentas.jpg)
 ![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Modal_Registro.jpg)
