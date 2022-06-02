@@ -41,3 +41,16 @@ Modal de Registro de Nuevo Ejercicio. En este modal se pueden registrar los ejer
 Vista de Registro de cuentas. El usuario va registrando todos los asientos correspondientes al mes.
 ![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Registro_Cuentas.jpg)
 ![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Modal_Registro.jpg)
+
+Vista de pólizas. Aquí se hace un filtrado de los asientos por número de póliza. Las pólizas se pueden descargar en PDF o Excel.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Polizas.jpg)
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Polizas1.jpg)
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Polizas2.jpg)
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Polizas3.jpg)
+
+Vista de Reportes. Puede hacer exactamente lo mismo que la vista de pólizas, sin embargo, aquí el filtrado es por cuenta.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Reportes.jpg)
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Reportes2.jpg)
+
+Vista de estado de resultados. Aqui se deducen todos los gastos e ingresos del mes y se obtiene una utilidad neta, de forma automática el software lo hace.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Resultados.jpg)
