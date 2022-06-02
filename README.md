@@ -32,3 +32,11 @@ Dashboard. Es la vista donde se muestra información del usuario y el mismo pued
 Modal de Registro de Empresa.
 ![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Registro_Empresa.jpg)
 
+Vista de Registro. Aquí el usuario registra los ejercicios fiscales correspondientes al año fiscal de la empresa.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Registro_EjerciciosFiscales.jpg)
+
+Modal de Registro de Nuevo Ejercicio. En este modal se pueden registrar los ejercicios fiscales del año de operaciones en curso.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Modal_EjercicioFiscal.jpg)
+
+Vista de Registro de cuentas. El usuario va registrando todos los asientos correspondientes al mes.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Modal_Registro.jpg)
