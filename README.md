@@ -13,3 +13,6 @@ En está vista es posible descargar el Manual del usuario, por si surgieran duda
 En la vista de acerca de se puede apreciar información sobre las motivaciones que impulsaron el proyecto,
 el objetivo, la metodología empleada y los integrantes que realizaron el proyecto.
 ![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Acercade.jpg)
+
+En el apartado de Juegos se muestra una colección de juegos realizados por alumnos de la carrera que tienen que ver con la contabilidad, para que los usuarios los descarguen y los puedan jugar.
+![cat](https://github.com/ricardomtnez/Yess_Conta_Sistema_Contable/blob/main/Resources/Juegos.jpg)
